@@ -1,0 +1,11 @@
+Lista 3 de Computação gráfica
+
+Integrantes do grupo:
+
+Caio Palhares Rocha Porto: 20223006156
+Letícia de Oliveira Soares: 20223002498
+Matheus Monteiro Huebra Perdigão: 20223002738
+
+Para a compilação do projeto, basta escrever "make compilar", e após isso o projeto estará compilado.
+Para a execução do projeto, basta escrever "make executar", lembrando que o "make executar" também compila, então pode-se rodar o projeto inteiro somente em um comando. 
+Para remover, use o "make limpar".
